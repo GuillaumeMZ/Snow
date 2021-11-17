@@ -1,3 +1,2 @@
 # Snow
-A general purpose, compiled programming language.  
-[Trello](https://trello.com/b/yGXZ4nsD/language)
+Unoptimized and incomplete tool for language recognition. You could call it "Lowcost ANTLR".
